@@ -266,9 +266,9 @@ void DesplegarMenu()
 }
 int main()
 {
-	//Definir tama�o de pantalla.
+	//Definir dimensiones de pantalla
 	system("mode con:cols=115 lines=30");
-	//Declaraci�n de las variables
+	//Declaracion de las variables
     char baseNombres[20][SIZE]={//Inicializacion del arreglo con nombres
 								"Maria Vidal","Tomas Ribas", "Karen Smith", "Maximo Mora", "Mary Mendez", 
 								"Ana Alarcon", "Diego Soria","Abdel White", "Jose Alfaro", "Donna Perez",
